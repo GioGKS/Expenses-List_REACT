@@ -1,1 +1,1 @@
-# Expenses-List_REACT
+# Expenses List App
